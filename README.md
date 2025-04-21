@@ -4,9 +4,6 @@ Task 1 - Data Cleaning and Preprocessing
 ## Task Overview
 This repository contains a step-by-step guide for cleaning and preprocessing raw data to prepare it for analysis or machine learning tasks. The goal is to transform messy, unstructured data into clean, usable datasets by handling missing values, correcting inconsistencies, and transforming features into usable formats.
 
-## Project Description
-In this project, I detail the data cleaning process I followed on a raw dataset, focusing on techniques like handling missing values, removing duplicates, identifying outliers, and feature engineering. This guide will be useful for anyone looking to clean up data before performing analysis or using it to train machine learning models.
-
 ## Data Cleaning Process
 ### 1. **Handling Missing Data**
    - **Identifying Missing Values**: Used Pandas to detect missing values (NaN) in the dataset.
